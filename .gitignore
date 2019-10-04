@@ -1,0 +1,7 @@
+.env
+.idea
+.django
+db.sqlite3
+*pyc
+*vscode
+__pycache__
