@@ -2,9 +2,7 @@
 
 Sistema de Eventos encomendado pela Morena
 
-[![Build Status](https://travis-ci.org/PaulaFAlves/eventex.svg?branch=master)](https://travis-ci.org/PaulaFAlves/eventex)
-
-[![codecov](https://codecov.io/gh/PaulaFAlves/eventex/branch/master/graph/badge.svg)](https://codecov.io/gh/PaulaFAlves/eventex)
+[![Build Status](https://travis-ci.org/tmassis/django.svg?branch=master)](https://travis-ci.org/tmassis/django)
 
 ## Como desenvolver?
 
